@@ -1,0 +1,7 @@
+değer1 = input("lütfen bir değer giriniz: ")
+değer2 = input("lütfen bir değer giriniz: ")
+değer3 = float(input("lütfen bir değer giriniz: "))
+değer4 = input("lütfen bir değer giriniz: ")
+değer5 = input("lütfen bir değer giriniz: ")
+print('Değerler {} {} {} {} {}'.format(değer1, değer2, değer3, değer4, değer5))
+print(type(f'Değerler {değer1} {değer2} {değer3} {değer4} {değer5}'))
